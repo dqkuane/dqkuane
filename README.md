@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @dqkuane
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 - I'm dqkuane. 
 - I'm interested in coding for finance generally. Looking at valuation modelling, private equity modelling, quantitative finance.
 - I'm currently learning C#, R, Javascript and SQL.
