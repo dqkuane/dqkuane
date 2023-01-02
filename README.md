@@ -2,7 +2,7 @@
 - I'm interested in algorithmic trading and quantifying things that are hard to quantify. 
   - Looking at valuation modelling, private equity modelling, quantitative finance.
   - Very interested by innovative arbitrage opportunities like the Kimchi Premium.
-  - Long term project is to bridge the data gap in Private Equity.
+  - Long term project is to bridge data gaps in Private Equity.
 - I'm currently learning C#, R, and C++.
 - I'm experienced in python. Familiar libraries: numpy, pandas, scikit-learn, statsmodels, matplotlib.pyplot, seaborn, yfinance.
 - I'm also experienced in Java.
